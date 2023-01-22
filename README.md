@@ -1,4 +1,4 @@
-# GyV-Rotacion-2D
+# Graficación y Videojuegos: Rotación 2D
 Rotaciones de cuadrado presentado de tres maneras diferentes: 
 - Teniendo como pivote el origen 0,0 en el centro de la pantalla.
 - Rotación de acuerdo al pivote de la figura en su centro.
